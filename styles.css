@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: blueviolet;
+  line-height: 1.5rem;
+  width: 100%;
+}
+
+.container {
+  margin: 100px auto;
+  max-width: 700px;
+}
+
+h1 {
+  color: brown;
+  font-size: 52px;
+  font-family: monospace;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+p {
+  color: aliceblue;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 18px;
+  padding: 16px;
+}
+
+li {
+  color: azure;
+  margin: 1rem;
+}
+
+ul {
+  background-color: brown;
+  margin: 1rem 0 0 0;
+  padding: 1rem;
+}
