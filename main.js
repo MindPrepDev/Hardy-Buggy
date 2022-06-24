@@ -1,6 +1,6 @@
 const fixBug = document.querySelector('bug-here');
 document.addEventListener('DOMContentLoaded', () => {
-  for (let bug = 0; bug < 5; bug += 1) {
+  for (let bug = 0; bug < 5; bug += 0) {
     const thisBug = document.createElement('div');
     thisBug.innerHTML = `<div class="para">
     <p>It's been a long week and I really want you to know that I enjoyed collaborating with 
